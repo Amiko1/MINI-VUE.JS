@@ -8,5 +8,5 @@
 
 #Patch
 
-Vuej's Core functional's clone, Created from Evan You's Advanced Vue Course.
+Vuej's Core functional clone, Created from Evan You's Advanced Vue Course.
 
